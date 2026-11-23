@@ -1,0 +1,10 @@
+fonte,endereco,arquivo,bytes,data_na_fonte,baixado_em,md5
+Divisão Territorial Brasileira (IBGE),https://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/divisao_territorial/2023/DTB_2023.zip,DTB_2023.zip,1536464,"Wed, 18 Dec 2024 13:00:03 GMT",2026-11-22,82cb7dcaa1885b408a6a8e3ad823f8e2
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_CENTRO_OESTE.7z,RAIS_VINC_PUB_CENTRO_OESTE.7z,329177897,20260518203838,2026-11-22,d638da237b8ff9152f518bc5b62febb3
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_MG_ES_RJ.7z,RAIS_VINC_PUB_MG_ES_RJ.7z,715072048,20260518201637,2026-11-22,12370c094310d7ce2164698b5b01c152
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_NI.7z,RAIS_VINC_PUB_NI.7z,56135,20260518201639,2026-11-22,38981348a81925e077dbf6874dd4dfb8
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_NORDESTE.7z,RAIS_VINC_PUB_NORDESTE.7z,567231199,20260518202051,2026-11-22,1f342cc8b6b286adce2cc227b1bbdd6d
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_NORTE.7z,RAIS_VINC_PUB_NORTE.7z,186321412,20260518202214,2026-11-22,92378506714d8756d052eb86f9eb5d3c
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_SP.7z,RAIS_VINC_PUB_SP.7z,1020986980,20260518203004,2026-11-22,41e69a27d0d2cf0b5351b57396d48bb3
+RAIS vínculos (MTE),ftp://ftp.mtps.gov.br/pdet/microdados/RAIS/2023/RAIS_VINC_PUB_SUL.7z,RAIS_VINC_PUB_SUL.7z,654290597,20260518203451,2026-11-22,42f79cbc8aa589c641b3b286e7ea867d
+Famílias da CBO 2002 (MTE),https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/cbo/servicos/downloads/cbo2002-familia.csv,cbo2002-familia.csv,33361,,2026-11-13,cff6abd7c6b254d06aa9114441e0a2b7

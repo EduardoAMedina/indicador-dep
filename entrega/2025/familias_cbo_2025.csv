@@ -1,0 +1,626 @@
+cbo_familia,titulo,vinculos_brasil,identifica_familia,na_tabela_cbo,nova_no_ano
+0101,Oficiais generais das forças armadas,893,sim,sim,não
+0102,Oficiais das forças armadas,58285,sim,sim,não
+0103,Praças das forças armadas,448588,sim,sim,não
+0201,Oficiais superiores da polícia militar,10419,sim,sim,não
+0202,Capitães da  polícia militar,9140,sim,sim,não
+0203,Tenentes da polícia militar,18997,sim,sim,não
+0211,Subtenentes e sargentos da policia militar,133637,sim,sim,não
+0212,Cabos e soldados da polícia militar,291564,sim,sim,não
+0301,Oficiais superiores do corpo de bombeiros militar,4032,sim,sim,não
+0302,Oficiais intermediários do corpo de bombeiros militar,2113,sim,sim,não
+0303,Tenentes do corpo de bombeiros militar,2615,sim,sim,não
+0311,Subtenentes e sargentos do corpo de bombeiros militar,20605,sim,sim,não
+0312,Cabos e soldados do corpo de bombeiros militar,22167,sim,sim,não
+1111,Legisladores,4094,sim,sim,não
+1112,Dirigentes gerais da administração pública,33791,sim,sim,não
+1113,Magistrados,21150,sim,sim,não
+1114,Dirigentes do serviço público,792720,sim,sim,não
+1115,Gestores públicos,19487,sim,sim,não
+1130,"Dirigentes de povos indígenas, de quilombolas e caiçaras",471,sim,sim,não
+1141,Dirigentes de partidos políticos,3485,sim,sim,não
+1142,Dirigentes e administradores de entidades patronais e dos trabalhadores e de outros interesses sócioeconômicos,3018,sim,sim,não
+1143,Dirigentes e administradores de entidades religiosas,402,sim,sim,não
+1144,Dirigentes e administradores de organizações da sociedade civil sem fins lucrativos,989,sim,sim,não
+1210,Diretores gerais,28397,sim,sim,não
+1221,"Diretores de produção e operações em empresa agropecuária, pesqueira , aqüícola e florestal",761,sim,sim,não
+1222,"Diretores de produção e operações em empresa da indústria extrativa, transformação e de serviços de utilidade pública",2020,sim,sim,não
+1223,Diretores de operações de obras em empresa de construção,2417,sim,sim,não
+1224,Diretores de operações em empresa do comércio,1884,sim,sim,não
+1225,"Diretores de serviços de turismo, de alojamento e de alimentação",1654,sim,sim,não
+1226,"Diretores de operações de serviços em empresa de armazenamento, de transporte e de telecomunicação",2802,sim,sim,não
+1227,Diretores de operações de serviços em instituição de intermediação financeira,2697,sim,sim,não
+1231,Diretores administrativos e financeiros,86196,sim,sim,não
+1232,Diretores de recursos humanos e relações de trabalho,4449,sim,sim,não
+1233,Diretores de comercialização e marketing,16445,sim,sim,não
+1234,Diretores de suprimentos e afins,2928,sim,sim,não
+1236,Diretores de tecnologia da informação,4620,sim,sim,não
+1237,Diretores de pesquisa e desenvolvimento,1948,sim,sim,não
+1238,Diretores de manutenção,2014,sim,sim,não
+1311,"Diretores e gerentes de operações em empresa de serviços pessoais, sociais e culturais",21783,sim,sim,não
+1312,"Gestores e especialistas de operações em empresas, secretarias e unidades de serviços de saúde",39771,sim,sim,não
+1313,Diretores e gerentes de instituição de serviços educacionais,60713,sim,sim,não
+1411,"Gerentes de produção e operações em empresa agropecuária, pesqueira, aqüícola e florestal",22433,sim,sim,não
+1412,"Gerentes de produção e operações em empresa da indústria extrativa, de transformação e de serviços de utilidade pública",97418,sim,sim,não
+1413,Gerentes de obras em empresa de construção,15735,sim,sim,não
+1414,Gerentes de operações comerciais e de assistência técnica,251997,sim,sim,não
+1415,"Gerentes de operações de serviços em empresa de turismo, de alojamento e alimentação",82720,sim,sim,não
+1416,"Gerentes de operações de serviços em empresa de transporte, de comunicação e de logística (armazenagem e distribuição)",54148,sim,sim,não
+1417,Gerentes de operações de serviços em instituição de intermediação financeira,34121,sim,sim,não
+1418,Gerentes operacionais da aviação civil,1109,sim,sim,não
+1421,"Gerentes administrativos, financeiros, de riscos e afins",472549,sim,sim,não
+1422,Gerentes de recursos humanos e de relações do trabalho,62101,sim,sim,não
+1423,"Gerentes de comercialização, marketing e comunicação",660388,sim,sim,não
+1424,Gerentes de suprimentos e afins,35073,sim,sim,não
+1425,Gerentes de tecnologia da informação,87306,sim,sim,não
+1426,Gerentes de pesquisa e desenvolvimento e afins,24795,sim,sim,não
+1427,Gerentes de manutenção e afins,39437,sim,sim,não
+2011,Profissionais da biotecnologia,1056,sim,sim,não
+2012,Profissionais da metrologia,1341,sim,sim,não
+2021,"Engenheiros de controle e automação, engenheiros mecatrônicos e afins",9611,sim,sim,não
+2030,Pesquisadores das ciências biológicas,2996,sim,sim,não
+2031,Pesquisadores das ciências naturais e exatas,6497,sim,sim,não
+2032,Pesquisadores de engenharia e tecnologia,23896,sim,sim,não
+2033,Pesquisadores das ciências da saúde,11052,sim,sim,não
+2034,Pesquisadores das ciências da agricultura,4940,sim,sim,não
+2035,Pesquisadores das ciências sociais e humanas,3661,sim,sim,não
+2041,Peritos criminais e judiciais,18151,sim,sim,não
+2111,Profissionais da matemática,7284,sim,sim,não
+2112,Profissionais de estatística e afins,7887,sim,sim,não
+2122,Engenheiros em computação,25421,sim,sim,não
+2123,Administradores de tecnologia da informação,47446,sim,sim,não
+2124,Analistas de tecnologia da informação,487871,sim,sim,não
+2131,Físicos,1108,sim,sim,não
+2132,Químicos,7166,sim,sim,não
+2133,Profissionais das ciências atmosféricas e espaciais e de astronomia,372,sim,sim,não
+2134,"Geólogos, oceanógrafos, geofísicos e afins",5944,sim,sim,não
+2140,Engenheiros ambientais e afins,8654,sim,sim,não
+2141,Arquitetos e urbanistas,20762,sim,sim,não
+2142,Engenheiros civis e afins,77921,sim,sim,não
+2143,"Engenheiros eletricistas, eletrônicos e afins",33950,sim,sim,não
+2144,Engenheiros mecânicos e afins,32809,sim,sim,não
+2145,Engenheiros químicos e afins,9659,sim,sim,não
+2146,"Engenheiros metalurgistas, de materiais e afins",3114,sim,sim,não
+2147,Engenheiros de minas e afins,6653,sim,sim,não
+2148,Engenheiros agrimensores e engenheiros cartógrafos,1010,sim,sim,não
+2149,"Engenheiros de produção, qualidade, segurança e afins",56637,sim,sim,não
+2151,Oficiais de convés e afins,8941,sim,sim,não
+2152,Oficiais de máquinas da marinha mercante,3863,sim,sim,não
+2153,Profissionais da pilotagem aeronáutica,11323,sim,sim,não
+2211,Biólogos e afins,12172,sim,sim,não
+2212,Biomédicos,31606,sim,sim,não
+2221,Engenheiros agrossilvipecuários,24356,sim,sim,não
+2222,Engenheiros de alimentos e afins,1064,sim,sim,não
+2232,Cirurgiões-dentistas,80433,sim,sim,não
+2233,Veterinários e zootecnistas,34555,sim,sim,não
+2234,Farmacêuticos,206632,sim,sim,não
+2235,Enfermeiros e afins,512199,sim,sim,não
+2236,Fisioterapeutas,98433,sim,sim,não
+2237,Nutricionistas,73235,sim,sim,não
+2238,Fonoaudiólogos,22289,sim,sim,não
+2239,"Terapeutas ocupacionais, ortoptistas e psicomotricistas",11976,sim,sim,não
+2241,Profissionais da educação física,110281,sim,sim,não
+2251,Médicos clínicos,261460,sim,sim,não
+2252,Médicos em especialidades cirúrgicas,29588,sim,sim,não
+2253,Médicos em medicina diagnóstica e terapêutica,4524,sim,sim,não
+2261,Osteopatas e quiropraxistas,30,sim,sim,não
+2263,"Profissionais das terapias criativas,equoterápicas e naturológicas",744,sim,sim,não
+2311,Professores de nível superior na educação infantil,307109,sim,sim,não
+2312,Professores de nível superior do ensino fundamental (primeira a quarta séries),1198400,sim,sim,não
+2313,Professores de nível superior no ensino fundamental de quinta a oitava série,319902,sim,sim,não
+2321,Professores do ensino médio,516129,sim,sim,não
+2331,Professores do ensino profissional,65799,sim,sim,não
+2332,Instrutores de ensino profissional,59337,sim,sim,não
+2341,"Professores de matemática, estatística e informática do ensino superior",4830,sim,sim,não
+2342,"Professores de ciências físicas, químicas e afins do ensino superior",1432,sim,sim,não
+2343,"Professores de arquitetura e urbanismo, engenharia, geofísica e geologia do ensino superior",6305,sim,sim,não
+2344,Professores de ciências biológicas e da saúde do ensino superior,33195,sim,sim,não
+2345,Professores na área de formação pedagógica do ensino superior,372543,sim,sim,não
+2346,Professores nas áreas de língua e literatura do ensino superior,71764,sim,sim,não
+2347,Professores de ciências humanas do ensino superior,17162,sim,sim,não
+2348,"Professores de ciências econômicas, administrativas e contábeis do ensino superior",14447,sim,sim,não
+2349,Professores de artes do ensino superior,6895,sim,sim,não
+2392,Professores de educação especial,83586,sim,sim,não
+2394,"Programadores, avaliadores e orientadores de ensino",345968,sim,sim,não
+2410,Advogados,136685,sim,sim,não
+2412,Procuradores e advogados públicos,32480,sim,sim,não
+2413,Tabeliães e registradores,4111,sim,sim,não
+2414,Conselheiros julgadores,692,sim,sim,não
+2422,Membros do ministério público,14430,sim,sim,não
+2423,Delegados de polícia,14215,sim,sim,não
+2424,Defensores públicos e procuradores da assistência judiciária,8310,sim,sim,não
+2429,Profissionais da inteligência,1228,sim,sim,não
+2511,Profissionais em pesquisa e análise antropológica sociológica,2308,sim,sim,não
+2512,Economistas,65097,sim,sim,não
+2513,Profissionais em pesquisa e análise geográfica,2182,sim,sim,não
+2514,Filósofos,26,sim,sim,não
+2515,Psicólogos e psicanalistas,112686,sim,sim,não
+2516,Assistentes sociais e economistas domésticos,120805,sim,sim,não
+2521,Administradores,363863,sim,sim,não
+2522,Contadores e afins,206794,sim,sim,não
+2523,Secretárias(os) executivas(os) e afins,222414,sim,sim,não
+2524,Profissionais de recursos humanos,146684,sim,sim,não
+2525,Profissionais de administração ecônomico-financeira,135454,sim,sim,não
+2526,Profissionais da administração dos serviços de segurança,4111,sim,sim,não
+2527,"Profissionais de planejamento, programação e controles logisticos",70139,sim,sim,não
+2531,Profissionais de publicidade,40103,sim,sim,não
+2532,Profissionais de comercializacão e consultoria de serviços bancários,116059,sim,sim,não
+2533,"Corretores de valores, ativos financeiros, mercadorias e derivativos",4221,sim,sim,não
+2534,Profissionais de mídias digitais e afins,16769,sim,sim,não
+2541,Auditores fiscais e técnicos da receita federal,15966,sim,sim,não
+2542,Auditores fiscais da previdência social,276,sim,sim,não
+2543,Auditores fiscais do trabalho,14924,sim,sim,não
+2544,Fiscais de tributos estaduais e municipais,39444,sim,sim,não
+2545,Profissionais da fiscalização de atividades urbanas,11144,sim,sim,não
+2611,Profissionais do jornalismo,41150,sim,sim,não
+2612,Profissionais da informação,31841,sim,sim,não
+2613,Arquivistas e museólogos,6039,sim,sim,não
+2614,"Filólogos,tradutores ,intérpretes e afins",8713,sim,sim,não
+2615,Profissionais da escrita,2628,sim,sim,não
+2616,Editores,3158,sim,sim,não
+2617,"Locutores, comentaristas e repórteres de mídias audiovisuais",14017,sim,sim,não
+2618,Fotógrafos profissionais,3884,sim,sim,não
+2619,Assistentes de direção (tv) e continuístas,151,sim,sim,não
+2621,Produtores artísticos e culturais,8713,sim,sim,não
+2622,Diretores de espetáculos e afins,1730,sim,sim,não
+2623,Cenógrafos,2251,sim,sim,não
+2624,"Artistas visuais,desenhistas industriais e conservadores-restauradores de bens culturais",50814,sim,sim,não
+2625,Atores,467,sim,sim,não
+2626,"Músicos compositores, arranjadores, regentes e musicólogos",4317,sim,sim,não
+2627,Músicos intérpretes,6425,sim,sim,não
+2628,Artistas da dança (exceto dança tradicional e popular),6319,sim,sim,não
+2629,Designer de interiores de nível superior,534,sim,sim,não
+2631,"Ministros de culto, missionários, teólogos e profissionais assemelhados",3445,sim,sim,não
+2711,Chefes de cozinha e afins,35639,sim,sim,não
+3001,Técnicos em mecatrônica,11043,sim,sim,não
+3003,Técnicos em eletromecânica,27710,sim,sim,não
+3011,Técnicos de laboratório industrial,53875,sim,sim,não
+3012,Técnicos de apoio à bioengenharia,283,sim,sim,não
+3111,Técnicos químicos,31557,sim,sim,não
+3112,"Técnicos de produção de indústrias químicas, petroquímicas, refino de petróleo, gás e afins",889,sim,sim,não
+3113,"Técnicos em materiais, produtos cerâmicos e vidros",917,sim,sim,não
+3114,Técnicos em fabricação de produtos plásticos e de borracha,7444,sim,sim,não
+3115,"Técnicos em controle ambiental, utilidades e tratamento de efluentes",15614,sim,sim,não
+3116,Técnicos têxteis,1542,sim,sim,não
+3117,Coloristas,20685,sim,sim,não
+3121,Técnicos em construção civil (edificações),60443,sim,sim,não
+3122,Técnicos em construção civil (obras de infraestrutura),12474,sim,sim,não
+3123,Técnicos em geomática,24551,sim,sim,não
+3131,Técnicos em eletricidade e eletrotécnica,125416,sim,sim,não
+3132,Técnicos em eletrônica,126288,sim,sim,não
+3133,Técnicos em telecomunicações,62388,sim,sim,não
+3134,Técnicos em calibração e instrumentação,18759,sim,sim,não
+3135,Técnicos em fotônica,9524,sim,sim,não
+3141,"Técnicos mecânicos na fabricação e montagem de máquinas, sistemas e instrumentos",85654,sim,sim,não
+3142,Técnicos mecânicos (ferramentas),5685,sim,sim,não
+3143,Técnicos em mecânica veicular,11963,sim,sim,não
+3144,"Técnicos mecânicos na manutenção de máquinas, sistemas e instrumentos",45757,sim,sim,não
+3146,Técnicos em metalurgia (estruturas metálicas),3828,sim,sim,não
+3147,Técnicos em siderurgia,2152,sim,sim,não
+3148,Especialistas em inspeções industriais,8623,sim,sim,não
+3161,Técnicos em geologia,1942,sim,sim,não
+3163,Técnicos em mineração,8474,sim,sim,não
+3171,Técnicos de desenvolvimento de sistemas e aplicações,103861,sim,sim,não
+3172,Técnicos de suporte e monitoração ao usuário de tecnologia da informação.,121648,sim,sim,não
+3180,"Desenhistas técnicos, em geral",12015,sim,sim,não
+3181,Desenhistas técnicos da construção civil e arquitetura,5970,sim,sim,não
+3182,Desenhistas técnicos da mecânica,2736,sim,sim,não
+3183,"Desenhistas técnicos em eletricidade, eletrônica, eletromecânica, calefação, ventilação e refrigeração",693,sim,sim,não
+3184,Desenhistas técnicos de produtos e serviços diversos,8878,sim,sim,não
+3185,Desenhistas projetistas de construção civil e arquitetura,20453,sim,sim,não
+3186,Desenhistas projetistas da mecânica,20226,sim,sim,não
+3187,Desenhistas projetistas da eletrônica,5351,sim,sim,não
+3188,Desenhistas projetistas e modelistas de produtos e serviços diversos,15889,sim,sim,não
+3191,Técnicos do vestuário,793,sim,sim,não
+3192,Técnicos do mobiliário e afins,626,sim,sim,não
+3201,Técnicos em biologia,949,sim,sim,não
+3211,Técnicos agrícolas,47768,sim,sim,não
+3212,Técnicos florestais,8098,sim,sim,não
+3213,Técnicos em aqüicultura,536,sim,sim,não
+3221,Tecnólogos e técnicos em terapias complementares e estéticas,16213,sim,sim,não
+3222,Técnicos e auxiliares de enfermagem,1292583,sim,sim,não
+3223,Técnicos em óptica e optometria,3399,sim,sim,não
+3224,Técnicos de odontologia,134430,sim,sim,não
+3225,Técnicos em próteses ortopédicas,1520,sim,sim,não
+3226,Técnicos de imobilizações ortopédicas,4685,sim,sim,não
+3227,Técnicos e profissionais em práticas integrativas e complementares (PICS),2781,sim,sim,não
+3231,Técnicos em pecuária,826,sim,sim,não
+3241,Tecnólogos e técnicos em métodos de diagnósticos e terapêutica,79890,sim,sim,não
+3242,Técnicos de laboratórios de saúde e bancos de sangue,67953,sim,sim,não
+3250,"Enólogos, perfumistas e aromistas",3626,sim,sim,não
+3251,Técnico em farmácia e em manipulação farmacêutica,37035,sim,sim,não
+3252,"Técnicos em produção, conservação  e de qualidade de alimentos",19613,sim,sim,não
+3253,Técnicos de apoio à biotecnologia,911,sim,sim,não
+3281,Técnicos em necrópsia e taxidermistas,2134,sim,sim,não
+3311,Professores de nível médio na educação infantil,584276,sim,sim,não
+3312,Professores de nível médio no ensino fundamental,1178838,sim,sim,não
+3313,Professores de nível médio no ensino profissionalizante,23241,sim,sim,não
+3321,Professores leigos no ensino fundamental,24714,sim,sim,não
+3322,Professores práticos no ensino profissionalizante,5411,sim,sim,não
+3331,Instrutores e professores de cursos livres,117521,sim,sim,não
+3341,Inspetores de alunos e afins,299151,sim,sim,não
+3411,"Pilotos de aviação comercial, mecânicos de vôo e afins",3491,sim,sim,não
+3412,"Técnicos marítimos, fluviários e pescadores de convés",7782,sim,sim,não
+3413,Técnicos marítimos e fluviários de máquinas,5009,sim,sim,não
+3421,Especialistas em logística de transportes,111973,sim,sim,não
+3422,Despachantes aduaneiros,4381,sim,sim,não
+3423,Técnicos em transportes rodoviários,54929,sim,sim,não
+3424,Técnicos em transportes metroferroviários,10937,sim,sim,não
+3425,Técnicos em transportes aéreos,34419,sim,sim,não
+3426,Técnicos em transportes por vias navegáveis e operações portuárias,5290,sim,sim,não
+3511,Técnicos em contabilidade,25746,sim,sim,não
+3513,Técnicos em administração,62019,sim,sim,não
+3514,Serventuários da justiça e afins,220446,sim,sim,não
+3515,"Técnicos em secretariado, taquígrafos e estenotipistas",63287,sim,sim,não
+3516,Técnicos em segurança do trabalho,133707,sim,sim,não
+3517,Técnicos de seguros e afins,45196,sim,sim,não
+3518,Agentes de investigação e identificação,64936,sim,sim,não
+3519,Técnicos da inteligência,759,sim,sim,não
+3522,Agentes da saúde e do meio ambiente,129444,sim,sim,não
+3523,Agentes  fiscais metrológicos e de qualidade,14647,sim,sim,não
+3524,Profissionais de direitos autorais e de avaliacão de produtos dos meios de comunicação,844,sim,sim,não
+3532,Técnicos em operações e serviços bancários,10221,sim,sim,não
+3541,Especialistas em promoção de produtos e vendas,490162,sim,sim,não
+3542,Compradores,112705,sim,sim,não
+3543,Analistas de comércio exterior,24037,sim,sim,não
+3544,Leiloeiros e avaliadores,4904,sim,sim,não
+3545,Corretores de seguros,1998,sim,sim,não
+3546,Corretores de imóveis e de grãos,3858,sim,sim,não
+3547,Representantes comerciais autônomos,3471,sim,sim,não
+3548,Técnicos em serviços de turismo e organização de eventos,45671,sim,sim,não
+3711,Técnicos em biblioteconomia,12616,sim,sim,não
+3712,Técnicos em museologia e afins,442,sim,sim,não
+3713,Técnicos em artes gráficas,2030,sim,sim,não
+3714,Recreadores,65281,sim,sim,não
+3721,Captadores de imagens em movimento,7151,sim,sim,não
+3722,Operadores de rede de teleprocessamento e afins,14840,sim,sim,não
+3731,Técnicos de operação de registros sonoro/audiovisuais,17755,sim,sim,não
+3732,Supervisores operacionais e técnicos em mídias audiovisuais,4552,sim,sim,não
+3741,Técnicos em áudio,11478,sim,sim,não
+3742,Técnicos em cenografia,2331,sim,sim,não
+3743,Técnicos em operação de aparelhos de projeção,620,sim,sim,não
+3744,"Técnicos em montagem, edição e finalização de mídia audiovisual",14239,sim,sim,não
+3751,"Designers de interiores, de vitrines e visual merchandiser e afins (nível médio)",11425,sim,sim,não
+3761,Dançarinos tradicionais e populares,222,sim,sim,não
+3762,Artistas de circo (circenses),360,sim,sim,não
+3763,"Apresentadores de eventos, programas e espetáculos",1953,sim,sim,não
+3764,Modelos,116,sim,sim,não
+3771,Atletas profissionais,15279,sim,sim,não
+3772,Árbitros desportivos,568,sim,sim,não
+3911,"Planejadores, programadores e controladores de produção e manutenção",207574,sim,sim,não
+3912,Técnicos de controle da produção,271912,sim,sim,não
+3951,Técnicos de apoio em pesquisa e desenvolvimento,24450,sim,sim,não
+4101,Supervisores administrativos,565228,sim,sim,não
+4102,"Supervisores de serviços financeiros, de câmbio e de controle",132561,sim,sim,não
+4110,"Agentes, assistentes e auxiliares administrativos",5006813,sim,sim,não
+4121,Operadores de equipamentos de entrada e transmissão de dados,39382,sim,sim,não
+4122,Contínuos,101896,sim,sim,não
+4131,Auxiliares de contabilidade,325115,sim,sim,não
+4132,Escriturários de serviços bancários,280276,sim,sim,não
+4141,Almoxarifes e armazenistas,1387424,sim,sim,não
+4142,Apontadores e conferentes,267045,sim,sim,não
+4151,"Auxiliares de serviços de documentação, informação e pesquisa",19162,sim,sim,não
+4152,"Trabalhadores nos serviços de classificação e entregas de correspondências, encomendas e publicações",68557,sim,sim,não
+4153,Trabalhadores em registros e informações em saúde,2729,sim,sim,não
+4201,Supervisores de atendimento ao público e de pesquisa,93904,sim,sim,não
+4211,Caixas e bilheteiros (exceto caixa de banco),1083714,sim,sim,não
+4212,Coletadores de apostas e de jogos,19175,sim,sim,não
+4213,Cobradores e afins,78528,sim,sim,não
+4221,Recepcionistas,852259,sim,sim,não
+4222,Operadores de telefonia,72588,sim,sim,não
+4223,Operadores de telemarketing e afins,420190,sim,sim,não
+4231,Despachantes documentalistas e afins,12535,sim,sim,não
+4241,Entrevistadores e recenseadores,15185,sim,sim,não
+4242,Aplicadores de provas e afins,565,sim,sim,não
+5101,"Supervisores dos serviços de transporte, turismo, hotelaria e administração de edifícios",54027,sim,sim,não
+5102,Supervisores de lavanderia,4863,sim,sim,não
+5103,"Supervisores dos serviços de proteção, segurança e outros",22380,sim,sim,não
+5111,Trabalhadores de segurança e atendimento aos usuários nos transportes,16238,sim,sim,não
+5112,Fiscais e cobradores dos transportes coletivos,87547,sim,sim,não
+5114,Guias de turismo,1114,sim,sim,não
+5115,Condutores de turismo,491,sim,sim,não
+5121,Trabalhadores dos serviços domésticos em geral,30664,sim,sim,não
+5131,Mordomos e governantas,10808,sim,sim,não
+5132,Cozinheiros,643955,sim,sim,não
+5133,"Camareiros, roupeiros e afins",107429,sim,sim,não
+5134,"Trabalhadores no atendimento em estabelecimentos de serviços de alimentação, bebidas e hotelaria",880286,sim,sim,não
+5135,Trabalhadores auxiliares nos serviços de alimentação,570912,sim,sim,não
+5136,"Churrasqueiros, pizzaiolos e sushimen",69337,sim,sim,não
+5141,Trabalhadores nos serviços de administração de edifícios,359194,sim,sim,não
+5142,"Trabalhadores nos serviços de coleta de resíduos, de limpeza e conservação de áreas públicas",879251,sim,sim,não
+5143,Trabalhadores nos  serviços de manutenção de edificações,2711716,sim,sim,não
+5151,Trabalhadores em serviços de promoção e apoio à saúde,435274,sim,sim,não
+5152,Auxiliares de laboratório da saúde,117918,sim,sim,não
+5153,"Trabalhadores de atenção, defesa e proteção a pessoas em situação de risco e adolescentes em conflito com a lei",118437,sim,sim,não
+5161,Trabalhadores nos serviços de embelezamento e higiene,15757,sim,sim,não
+5162,"Cuidadores de crianças, jovens, adultos e idosos",155842,sim,sim,não
+5163,"Tintureiros, lavadeiros e afins, a máquina",85985,sim,sim,não
+5164,"Lavadores e passadores de roupa, a mão",6582,sim,sim,não
+5165,Trabalhadores dos serviços funerários,18612,sim,sim,não
+5166,Trabalhadores auxiliares dos serviços funerários,10045,sim,sim,não
+5168,Esotéricos e paranormais,20,sim,sim,não
+5169,Trabalhadores nos serviços de arte corporal,92,sim,sim,não
+5171,"Bombeiros, salva-vidas e afins",55883,sim,sim,não
+5172,"Policiais, guardas-civis municipais e agentes de trânsito",237554,sim,sim,não
+5173,Vigilantes e guardas de segurança,765441,sim,sim,não
+5174,"Porteiros, vigias e afins",1218063,sim,sim,não
+5191,Motociclistas e ciclistas de entregas rápidas,153106,sim,sim,não
+5192,Trabalhadores da coleta e seleção de material reciclável,21150,sim,sim,não
+5193,"Trabalhadores de serviços veterinários, de higiene e estética de animais domésticos",39553,sim,sim,não
+5198,Profissionais do sexo,1,sim,sim,não
+5199,Outros trabalhadores dos serviços,154825,sim,sim,não
+5201,Supervisores de vendas e de prestação de serviços,172707,sim,sim,não
+5211,Operadores do comércio em lojas e mercados,4304135,sim,sim,não
+5231,Instaladores de produtos e acessórios,23287,sim,sim,não
+5241,Vendedores em domicílio,49915,sim,sim,não
+5242,"Vendedores em bancas, quiosques e barracas",4304,sim,sim,não
+5243,Vendedores ambulantes,5134,sim,sim,não
+6110,Produtores agropecuários em geral,3189,sim,sim,não
+6120,Produtores agrícolas polivalentes,3197,sim,sim,não
+6121,Produtores agrícolas na cultura de gramíneas,516,sim,sim,não
+6122,Produtores agrícolas na cultura de plantas fibrosas,5,sim,sim,não
+6123,Produtores agrícolas na olericultura,474,sim,sim,não
+6124,Produtores agrícolas no cultivo de flores e plantas ornamentais,399,sim,sim,não
+6125,Produtores agrícolas na fruticultura,721,sim,sim,não
+6126,Produtores agrícolas na cultura de plantas estimulantes,66,sim,sim,não
+6127,Produtores agrícolas na cultura de plantas oleaginosas,59,sim,sim,não
+6128,Produtores de especiarias e de plantas aromáticas e medicinais,29,sim,sim,não
+6130,Produtores em pecuária polivalente,510,sim,sim,não
+6131,Produtores em pecuária de animais de grande porte,1383,sim,sim,não
+6132,Produtores em pecuária de animais de médio porte,415,sim,sim,não
+6133,Produtores da avicultura e cunicultura,3355,sim,sim,não
+6134,Produtores de animais e insetos úteis,159,sim,sim,não
+6201,Supervisores na exploração agropecuária,55550,sim,sim,não
+6210,Trabalhadores agropecuários em geral,376085,sim,sim,não
+6220,Trabalhadores de apoio à agricultura,283937,sim,sim,não
+6221,Trabalhadores agrícolas na cultura de gramíneas,128130,sim,sim,não
+6222,Trabalhadores agrícolas na cultura de plantas fibrosas,607,sim,sim,não
+6223,Trabalhadores agrícolas na olericultura,10779,sim,sim,não
+6224,Trabalhadores agrícolas no cultivo de flores e plantas ornamentais,15726,sim,sim,não
+6225,Trabalhadores agrícolas na fruticultura,105916,sim,sim,não
+6226,Trabalhadores agrícolas nas culturas de plantas estimulantes,20709,sim,sim,não
+6227,Trabalhadores agrícolas na cultura de plantas oleaginosas,10692,sim,sim,não
+6228,Trabalhadores agrícolas da cultura de especiarias e de plantas aromáticas e medicinais,595,sim,sim,não
+6230,Tratadores polivalentes de animais,46074,sim,sim,não
+6231,Trabalhadores na pecuária de animais de grande porte,119051,sim,sim,não
+6232,Trabalhadores na pecuária de animais de médio porte,21736,sim,sim,não
+6233,Trabalhadores na avicultura e cunicultura,71288,sim,sim,não
+6234,Trabalhadores na criação de insetos e animais úteis,779,sim,sim,não
+6301,Supervisores na área florestal e aqüicultura,8709,sim,sim,não
+6310,Pescadores polivalentes,237,sim,sim,não
+6311,Pescadores profissionais artesanais de água doce,82,sim,sim,não
+6312,Pescadores de água costeira e alto mar,3741,sim,sim,não
+6313,Criadores de animais aquáticos,5413,sim,sim,não
+6314,Trabalhadores de apoio à pesca,468,sim,sim,não
+6320,Trabalhadores florestais polivalentes,4859,sim,sim,não
+6321,Extrativistas e reflorestadores de espécies produtoras de madeira,57189,sim,sim,não
+6322,Extrativistas florestais de espécies produtoras de gomas e resinas,6779,sim,sim,não
+6323,"Extrativistas florestais de espécies produtoras de fibras, ceras e óleos",493,sim,sim,não
+6324,Extrativistas florestais de espécies produtoras de alimentos silvestres,688,sim,sim,não
+6325,"Extrativistas florestais de espécies produtoras de substâncias aromáticas, medicinais e tóxicas",354,sim,sim,não
+6326,Carvoejadores,9368,sim,sim,não
+6410,Trabalhadores da mecanização agrícola,295949,sim,sim,não
+6420,Trabalhadores da mecanização florestal,24125,sim,sim,não
+6430,Trabalhadores da irrigação e drenagem,9518,sim,sim,não
+7101,Supervisores da extração mineral,8805,sim,sim,não
+7102,Supervisores da construção civil,141344,sim,sim,não
+7111,Trabalhadores da extração de minerais sólidos,25107,sim,sim,não
+7112,Trabalhadores de extração de minerais sólidos (operadores de máquinas),40916,sim,sim,não
+7113,Trabalhadores da extração de minerais líquidos e gasosos,15657,sim,sim,não
+7114,Garimpeiros e operadores de salinas,967,sim,sim,não
+7121,Trabalhadores de beneficiamento de minérios,10962,sim,sim,não
+7122,Trabalhadores de beneficiamento de pedras ornamentais,26402,sim,sim,não
+7151,Trabalhadores na operação de máquinas de terraplenagem e fundações,227441,sim,sim,não
+7152,Trabalhadores de estruturas de alvenaria,453155,sim,sim,não
+7153,Montadores de estruturas de concreto armado,73290,sim,sim,não
+7154,Trabalhadores na operação de máquinas de concreto usinado e afins,33197,sim,sim,não
+7155,"Trabalhadores de montagem de estruturas de madeira, metal e compósitos em obras civis",166962,sim,sim,não
+7156,Trabalhadores de instalações elétricas,160519,sim,sim,não
+7157,Aplicadores de materiais isolantes,17996,sim,sim,não
+7161,Revestidores de concreto,3761,sim,sim,não
+7162,Telhadores (revestimentos rígidos),1322,sim,sim,não
+7163,Vidraceiros (revestimentos rígidos),26750,sim,sim,não
+7164,Gesseiros,25642,sim,sim,não
+7165,"Aplicadores de revestimentos cerâmicos, pastilhas, pedras e madeiras",32074,sim,sim,não
+7166,Pintores de obras e revestidores de interiores (revestimentos flexíveis),93529,sim,sim,não
+7170,Ajudantes de obras civis,704147,sim,sim,não
+7201,"Supervisores de usinagem, conformação e tratamento de metais",21329,sim,sim,não
+7202,Supervisores da fabricação e montagem metalmecânica,21390,sim,sim,não
+7211,Ferramenteiros e afins,25198,sim,sim,não
+7212,Preparadores e operadores de máquinas-ferramenta convencionais,165926,sim,sim,não
+7213,Afiadores e polidores de metais,17838,sim,sim,não
+7214,Operadores de máquinas de usinagem cnc,57473,sim,sim,não
+7221,Trabalhadores de forjamento de metais,6918,sim,sim,não
+7222,Trabalhadores de fundição de metais puros e de ligas metálicas,25362,sim,sim,não
+7223,Trabalhadores de moldagem de metais e de ligas metálicas,14223,sim,sim,não
+7224,Trabalhadores de trefilação e estiramento de metais puros e ligas metálicas,7000,sim,sim,não
+7231,Trabalhadores de tratamento térmico de metais,4116,sim,sim,não
+7232,Trabalhadores de tratamento de superfícies de metais e de compósitos (termoquímicos),13611,sim,sim,não
+7233,"Trabalhadores da pintura de equipamentos, veículos, estruturas metálicas e de compósitos",86719,sim,sim,não
+7241,Encanadores e instaladores de tubulações,106401,sim,sim,não
+7242,Trabalhadores de traçagem e montagem de estruturas metálicas e de compósitos,120713,sim,sim,não
+7243,Trabalhadores de soldagem e corte de ligas metálicas,230643,sim,sim,não
+7244,Trabalhadores de caldeiraria e serralheria,146729,sim,sim,não
+7245,Operadores de máquinas de conformação de metais,48338,sim,sim,não
+7246,Trançadores e laceiros de cabos de aço,673,sim,sim,não
+7250,Ajustadores mecânicos polivalentes e afins,33388,sim,sim,não
+7251,"Montadores de máquinas, aparelhos e acessórios em linhas de montagem",40391,sim,sim,não
+7252,Montadores de máquinas industriais,46820,sim,sim,não
+7253,Montadores de máquinas pesadas e equipamentos agrícolas,7221,sim,sim,não
+7254,Mecânicos montadores de motores e turboalimentadores,6845,sim,sim,não
+7255,Montadores de veículos automotores (linha de montagem),45719,sim,sim,não
+7256,Montadores de sistemas e estruturas de aeronaves,2594,sim,sim,não
+7257,Instaladores de equipamentos de refrigeração e ventilação,21238,sim,sim,não
+7301,Supervisores de montagens e instalações eletroeletrônicas,12116,sim,sim,não
+7311,Montadores de equipamentos eletroeletrônicos,126267,sim,sim,não
+7312,Montadores de aparelhos de telecomunicações,3709,sim,sim,não
+7313,Instaladores-reparadores de  linhas e equipamentos de telecomunicações,35962,sim,sim,não
+7321,"Instaladores e reparadores de linhas e cabos elétricos, telefônicos e de comunicação de dados",177126,sim,sim,não
+7401,Supervisores da mecânica de precisão e instrumentos musicais,690,sim,sim,não
+7411,Mecânicos de instrumentos de precisão,8563,sim,sim,não
+7421,Confeccionadores de instrumentos musicais,484,sim,sim,não
+7501,Supervisores de joalheria e afins,275,sim,sim,não
+7502,"Supervisores de vidraria, cerâmica e afins",1092,sim,sim,não
+7510,Joalheiros e lapidadores de gemas,2823,sim,sim,não
+7511,Artesãos de metais preciosos e semi-preciosos,5772,sim,sim,não
+7521,"Sopradores, moldadores e modeladores de vidros e afins",1022,sim,sim,não
+7522,Trabalhadores da transformação de vidros planos,8212,sim,sim,não
+7523,Ceramistas (preparação e fabricação),28698,sim,sim,não
+7524,Vidreiros e ceramistas (arte e decoração),2804,sim,sim,não
+7601,Supervisores da indústria têxtil,13104,sim,sim,não
+7602,Supervisores na indústria do curtimento,265,sim,sim,não
+7603,Supervisores na confecção do vestuário,14134,sim,sim,não
+7604,Supervisores na confecção de calçados,8235,sim,sim,não
+7605,"Supervisores da confecção de artefatos de tecidos, couros e afins",3519,sim,sim,não
+7606,Supervisores das artes gráficas,4532,sim,sim,não
+7610,Trabalhadores polivalentes das indústrias têxteis,37221,sim,sim,não
+7611,Trabalhadores da classificação de fibras têxteis e lavagem de lã,843,sim,sim,não
+7612,Operadores da fiação,14049,sim,sim,não
+7613,Operadores de tear e máquinas similares,32323,sim,sim,não
+7614,"Trabalhadores de acabamento, tingimento e estamparia das indústrias têxteis",17577,sim,sim,não
+7618,Inspetores e revisores de produção têxtil,22565,sim,sim,não
+7620,Trabalhadores polivalentes do curtimento de couros e peles,7223,sim,sim,não
+7621,Trabalhadores da preparação do curtimento de couros e peles,1810,sim,sim,não
+7622,Trabalhadores do curtimento de couros e peles,3057,sim,sim,não
+7623,Trabalhadores do acabamento de couros e peles,5282,sim,sim,não
+7630,Profissionais polivalentes da confecção de roupas,35705,sim,sim,não
+7631,Trabalhadores da preparação da confecção de roupas,99102,sim,sim,não
+7632,Operadores de máquinas para costura de peças do vestuário,241379,sim,sim,não
+7633,Operadores de máquinas para bordado e acabamento de roupas,37370,sim,sim,não
+7640,Trabalhadores polivalentes da confecção de calçados,84670,sim,sim,não
+7641,Trabalhadores da preparação da confecção de calçados,42429,sim,sim,não
+7642,Operadores de máquinas de costurar e montar calçados,31958,sim,sim,não
+7643,Trabalhadores de acabamento de calçados,14493,sim,sim,não
+7650,Trabalhadores polivalentes da confecção de artefatos de tecidos e couros,1234,sim,sim,não
+7651,"Trabalhadores da preparação de artefatos de tecidos, couros e tapeçaria",4659,sim,sim,não
+7652,"Trabalhadores da confecção de artefatos de tecidos, couros e sintéticos",20845,sim,sim,não
+7653,Operadores de máquinas na confecção de artefatos de  couro,3490,sim,sim,não
+7654,Trabalhadores do acabamento de artefatos de tecidos e couros,3533,sim,sim,não
+7661,Trabalhadores da pré-impressão gráfica,18528,sim,sim,não
+7662,Trabalhadores da impressão gráfica,48067,sim,sim,não
+7663,Trabalhadores do acabamento gráfico,40785,sim,sim,não
+7664,Trabalhadores de laboratório fotográfico e radiológico,3252,sim,sim,não
+7681,"Trabalhadores de tecelagem manual, tricô, crochê, rendas e afins",1913,sim,sim,não
+7682,Trabalhadores artesanais da confecção de peças e tecidos,1596,sim,sim,não
+7683,Trabalhadores artesanais da confecção de calçados e artefatos de couros e peles,12319,sim,sim,não
+7686,Trabalhadores tipográficos linotipistas e afins,1900,sim,sim,não
+7687,Encadernadores e recuperadores de livros (pequenos lotes ou a unidade),1197,sim,sim,não
+7701,"Supervisores em indústria de madeira, mobiliário e da carpintaria veicular",11640,sim,sim,não
+7711,Marceneiros e afins,82740,sim,sim,não
+7721,Trabalhadores de tratamento e preparação da madeira,11875,sim,sim,não
+7731,Operadores de máquinas de desdobramento da madeira,27771,sim,sim,não
+7732,Operadores de máquinas de aglomeração e prensagem de chapas,2250,sim,sim,não
+7733,Operadores de usinagem convencional de madeira,26808,sim,sim,não
+7734,Operadores de máquina de usinar madeira (produção em série),8175,sim,sim,não
+7735,Operadores de máquinas de usinagem de madeira cnc,4773,sim,sim,não
+7741,Montadores de móveis e artefatos de madeira,69376,sim,sim,não
+7751,Trabalhadores de arte e  do acabamento em madeira do mobiliário,4698,sim,sim,não
+7764,"Confeccionadores de artefatos de madeira, móveis de vime e afins",2421,sim,sim,não
+7771,Carpinteiros navais,393,sim,sim,não
+7772,Carpinteiros de carrocerias e carretas,654,sim,sim,não
+7801,Supervisores de trabalhadores de embalagem e etiquetagem,6852,sim,sim,não
+7811,Condutores de processos robotizados,3207,sim,sim,não
+7813,Operadores de equipamentos pilotados remotamente,4849,sim,sim,não
+7817,Trabalhadores subaquáticos,2918,sim,sim,não
+7821,Operadores de máquinas e equipamentos de elevação,58679,sim,sim,não
+7822,Operadores de equipamentos de movimentação de cargas,216174,sim,sim,não
+7823,Motoristas de veículos de pequeno e médio porte,561051,sim,sim,não
+7824,"Motoristas de ônibus urbanos, metropolitanos e rodoviários",387071,sim,sim,não
+7825,Motoristas de veículos de cargas em geral,1276175,sim,sim,não
+7826,Operadores de veículos sobre trilhos e cabos aéreos,12628,sim,sim,não
+7827,Trabalhadores aquaviários,26986,sim,sim,não
+7828,Condutores de animais e de veículos de tração animal e pedais,2593,sim,sim,não
+7831,Trabalhadores de manobras de transportes sobre trilhos,15838,sim,sim,não
+7832,Trabalhadores de cargas e descargas de mercadorias,655512,sim,sim,não
+7841,Trabalhadores de embalagem e de etiquetagem,240824,sim,sim,não
+7842,Alimentadores de linhas de produção,1344482,sim,sim,não
+7911,Artesãos,2798,sim,sim,não
+8101,"Supervisores de produção em indústrias químicas, petroquímicas e afins",8320,sim,sim,não
+8102,Supervisores de produção em indústrias de transformação de plásticos e borrachas,9888,sim,sim,não
+8103,"Supervisores de produção em indústrias de produtos farmacêuticos, cosméticos e afins",3023,sim,sim,não
+8110,"Operadores polivalentes de equipamentos em indústrias químicas, petroquímicas e afins",9865,sim,sim,não
+8111,Operadores de equipamentos de moagem e mistura de materiais (tratamentos químicos e afins),16688,sim,sim,não
+8112,Operadores de calcinação e de tratamentos químicos de materiais radioativos,1618,sim,sim,não
+8113,Operadores de equipamentos de filtragem e separação,13386,sim,sim,não
+8114,"Operadores de equipamentos de destilação, evaporação e reação",7496,sim,sim,não
+8115,Operadores de equipamentos de produção e refino de petróleo e gás,2071,sim,sim,não
+8116,Operadores de equipamentos de coqueificação,5419,sim,sim,não
+8117,"Operadores de instalações e máquinas de produtos plásticos, de borracha e moldadores de parafinas",90341,sim,sim,não
+8118,"Operadores de máquinas e instalações de produtos farmacêuticos, cosméticos e afins",29009,sim,sim,não
+8121,Trabalhadores da fabricação de munição e explosivos químicos,2006,sim,sim,não
+8131,"Operadores de processos das indústrias de transformação de produtos químicos, petroquímicos e afins",82354,sim,sim,não
+8181,Laboratoristas industriais auxiliares,31845,sim,sim,não
+8201,Supervisores de produção em indústrias siderúrgicas,3536,sim,sim,não
+8202,Supervisores na fabricação de materiais para construção (vidros e cerâmicas),5706,sim,sim,não
+8211,Operadores de instalações de sinterização,4649,sim,sim,não
+8212,Operadores de fornos de primeira  fusão e aciaria,19917,sim,sim,não
+8213,Operadores de equipamentos de laminação,11414,sim,sim,não
+8214,Operadores de equipamentos de acabamento de chapas e metais,55403,sim,sim,não
+8221,Forneiros metalúrgicos (segunda fusão e reaquecimento),4596,sim,sim,não
+8231,"Operadores na preparação de massas para abrasivo, vidro, cerâmica, porcelana e materiais de construção",4259,sim,sim,não
+8232,"Operadores de equipamentos de fabricação  e beneficiamento de cristais, vidros, cerâmicas, porcelanas, fibras de vidro, abrasivos e afins",7544,sim,sim,não
+8233,Operadores de instalações e equipamentos de fabricação de materiais de construção,28488,sim,sim,não
+8281,Trabalhadores da fabricação de cerâmica estrutural para construção,31687,sim,sim,não
+8301,Supervisores da fabricação de celulose e papel,2919,sim,sim,não
+8311,Preparadores de pasta para fabricação de papel,3247,sim,sim,não
+8321,Operadores de máquinas de fabricar papel e papelão,20797,sim,sim,não
+8331,Operadores de máquinas na fabricação de produtos de papel e papelão,14214,sim,sim,não
+8332,Trabalhadores artesanais de produtos de papel e papelão,2368,sim,sim,não
+8401,"Supervisores da fabricação de alimentos, bebidas e fumo",36852,sim,sim,não
+8411,"Trabalhadores da indústria de beneficiamento de grãos, cereais e afins",8656,sim,sim,não
+8412,Trabalhadores no beneficiamento do sal,1741,sim,sim,não
+8413,Trabalhadores na fabricação e refino de açúcar,13205,sim,sim,não
+8414,Trabalhadores na fabricação e conservação de alimentos,69443,sim,sim,não
+8415,Trabalhadores na pasteurização do leite e na fabricação de laticínios  e afins,25720,sim,sim,não
+8416,"Trabalhadores na industrialização de café, cacau, mate e de produtos afins",2170,sim,sim,não
+8417,"Trabalhadores na fabricação de cachaça, cerveja, vinhos e outras bebidas",6908,sim,sim,não
+8418,"Operadores de equipamentos na fabricação de pães, massas alimentícias, doces, chocolates e achocolatados",47195,sim,sim,não
+8421,Cigarreiros e beneficiadores de fumo,4535,sim,sim,não
+8422,Charuteiros,314,sim,sim,não
+8481,Trabalhadores artesanais na conservação de alimentos,13464,sim,sim,não
+8482,Trabalhadores artesanais na pasteurização do leite e na fabricação de laticínios e afins,5953,sim,sim,não
+8483,"Padeiros, confeiteiros e afins",199097,sim,sim,não
+8484,Trabalhadores na degustação e classificação de grãos e afins,9175,sim,sim,não
+8485,Magarefes e afins,472048,sim,sim,não
+8486,Trabalhadores artesanais na indústria do fumo,808,sim,sim,não
+8601,Supervisores da produção de utilidades,17428,sim,sim,não
+8611,"Operadores de instalações de geração e distribuição de energia elétrica, hidráulica, térmica ou nuclear",7181,sim,sim,não
+8612,Operadores de instalações de distribuição de energia elétrica,2135,sim,sim,não
+8621,Operadores de máquinas a vapor e utilidades,268893,sim,sim,não
+8622,"Operadores de instalações de captação, tratamento e distribuição de água",25194,sim,sim,não
+8623,Operadores de instalações de captação e esgotos,31896,sim,sim,não
+8624,"Operadores de instalações de extração, processamento, envasamento e distribuição de gases",3726,sim,sim,não
+8625,Operadores de instalações de refrigeração e ar-condicionado,6979,sim,sim,não
+9101,"Supervisores em serviços de reparação e manutenção de máquinas e equipamentos industriais, comerciais e residenciais",38430,sim,sim,não
+9102,Supervisores em serviços de reparação e manutenção veicular,14570,sim,sim,não
+9109,"Supervisores de outros trabalhadores de serviços de reparação, conservação e manutenção",1479,sim,sim,não
+9111,"Mecânicos de manutenção de bombas, motores, compressores e equipamentos de transmissão",18686,sim,sim,não
+9112,Mecânicos de manutenção e instalação de aparelhos de  climatização e refrigeração,35840,sim,sim,não
+9113,Mecânicos de manutenção de máquinas industriais,246118,sim,sim,não
+9131,Mecânicos de manutenção de máquinas pesadas e equipamentos agrícolas,51832,sim,sim,não
+9141,Mecânicos de manutenção aeronáutica,8539,sim,sim,não
+9142,Mecânicos de manutenção de motores e equipamentos navais,1407,sim,sim,não
+9143,Mecânicos de manutenção metroferroviária,6362,sim,sim,não
+9144,Mecânicos de manutenção de veículos automotores,305108,sim,sim,não
+9151,Técnicos em manutenção e reparação de instrumentos de medição e precisão,4907,sim,sim,não
+9152,Restauradores de instrumentos musicais,236,sim,sim,não
+9153,Técnicos em manutenção e reparação de equipamentos biomédicos,8165,sim,sim,não
+9154,Reparadores de equipamentos fotográficos,69,sim,sim,não
+9191,Lubrificadores,30154,sim,sim,não
+9192,"Trabalhadores de manutenção de roçadeiras, motoserras e similares",12741,sim,sim,não
+9193,Mecânicos de manutenção de bicicletas e equipamentos esportivos e de ginástica,7651,sim,sim,não
+9501,"Supervisores de manutenção eletroeletrônica industrial, comercial e predial",27101,sim,sim,não
+9502,Supervisores de manutenção eletroeletrônica veicular,1599,sim,sim,não
+9503,Supervisores de manutenção eletromecânica,11336,sim,sim,não
+9511,Eletricistas de manutenção eletroeletrônica,109370,sim,sim,não
+9513,Instaladores e mantenedores de sistemas eletroeletrônicos de segurança,52837,sim,sim,não
+9531,"Eletricistas eletrônicos de manutenção veicular (aérea, terrestre e naval)",34311,sim,sim,não
+9541,"Instaladores e mantenedores eletromecânicos de elevadores, escadas e portas automáticas",28572,sim,sim,não
+9542,Reparadores de aparelhos eletrodomésticos,2731,sim,sim,não
+9543,Reparadores de equipamentos de escritório,1694,sim,sim,não
+9911,Conservadores de vias permanentes (trilhos),10091,sim,sim,não
+9912,Mantenedores de equipamentos de parques de diversões e similares,1294,sim,sim,não
+9913,Reparadores de carrocerias de veículos,43134,sim,sim,não
+9921,Trabalhadores elementares de serviços de manutenção veicular,45629,sim,sim,não
+9922,Trabalhadores operacionais de conservação de vias permanentes (exceto trilhos),146572,sim,sim,não
+9999,,4301,não,não,não

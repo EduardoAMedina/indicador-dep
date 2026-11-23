@@ -1,0 +1,4 @@
+# pasta padrão dos dados de trabalho (DEP_DADOS): brutos e tratados somam vários GB por ano
+dados/
+__pycache__/
+*.py[cod]

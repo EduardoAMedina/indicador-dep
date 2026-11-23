@@ -1,0 +1,20 @@
+arquivo,coluna,tipo,descricao
+contagens,ano,número,Ano-base da RAIS
+contagens,id_municipio,"texto, 6 dígitos","Município do estabelecimento (código do IBGE sem o dígito verificador). Vazio quando o código não está na DTB do ano: o vínculo entra na referência nacional, mas não em municípios"
+contagens,cbo_familia,"texto, 4 dígitos",Família da CBO (4 primeiros dígitos da ocupação). Vazio quando o código não é numérico; 0000 e 9999 não identificam família. Ver familias_cbo_<ano>.csv
+contagens,escolaridade,número,"Escolaridade (1 a 11; ver categorias.csv, com os anos de estudo). Outros valores ou vazio: escolaridade inválida, fora do cálculo"
+contagens,sexo,texto,Código da RAIS (ver categorias.csv)
+contagens,faixa_etaria,texto,Código da RAIS (ver categorias.csv)
+contagens,raca_cor,texto,"Código da RAIS (ver categorias.csv, com os grupos do DEP)"
+contagens,setor,texto,Setor agrupado a partir do subsetor do IBGE (ver categorias.csv); vazio = não informado
+contagens,vinculos,número,"Vínculos do universo do DEP com essa combinação: ativos em 31/12, sem a marcação de abandono e fora da faixa etária de 10 a 14 anos"
+formato,contagens_<ano>.csv.gz,,"CSV em UTF-8 compactado com gzip, separado por vírgula, com cabeçalho; códigos lidos como texto para manter os zeros à esquerda; uma linha por combinação; a soma de vinculos é o estoque divulgado pelo MTE menos a faixa de 10 a 14 anos (ver universo_<ano>.csv)"
+municipios,"id_municipio, id_municipio_ibge",texto,Código com 6 e com 7 dígitos
+municipios,"municipio, uf, sigla_uf, nome_uf",texto,"Nome do município e a UF, segundo a DTB do ano"
+municipios,vinculos,número,Vínculos do universo no município (todas as linhas da tabela de contagens do município)
+universo,"estoque_mte, faixa_10_a_14, universo_dep",número,"Estoque divulgado pelo MTE, vínculos da faixa de 10 a 14 anos retirados e total da tabela de contagens"
+familias_cbo,"cbo_familia, titulo",texto,Código e título da família (título da tabela atual da CBO)
+familias_cbo,vinculos_brasil,número,"Vínculos do universo declarados na família no ano, no Brasil"
+familias_cbo,identifica_familia,sim/não,"não para 0000 e 9999, que ficam fora do cálculo"
+familias_cbo,na_tabela_cbo,sim/não,Se a família está na tabela atual da CBO baixada do MTE
+familias_cbo,nova_no_ano,sim/não/vazio,sim se a família não foi declarada no ano anterior; vazio sem o dicionário do ano anterior
